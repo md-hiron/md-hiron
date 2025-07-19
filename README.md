@@ -24,21 +24,19 @@ Specializing in **Next.js**, **WordPress**, and **Headless CMS** integrations (A
 
 ## 📌 Featured Projects
 
-- 🔗 [Next.js Blog with WPGraphQL](https://github.com/hirondev/nextjs-headless-blog)
-- 🔗 [Donation Form with Stripe & Gravity Forms](https://github.com/hirondev/nextjs-stripe-donation)
-- 🔗 [Portfolio Website](https://github.com/hirondev/portfolio-site)
+- 🔗 [Next.js Blog with WPGraphQL](https://www.citiesprojectglobal.com/)
+- 🔗 [Woocommerce Product Addon](https://github.com/md-hiron/wc-product-addon)
+- 🔗 [Personal Branding](https://wordpressagency.london/sc-2025)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Hiron's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirondev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirondev&layout=compact&theme=radical)
+![Hiron's GitHub stats](https://github-readme-stats.vercel.app/api?username=md-hiron&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-hiron&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram)](https://t.me/your-username)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-hiron-mia-872485214/)
