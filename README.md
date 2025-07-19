@@ -3,10 +3,10 @@
 I'm a passionate **Web Developer** from Bangladesh 🇧🇩  
 Specializing in **Next.js**, **WordPress**, and **Headless CMS** integrations (ACF + GraphQL + Apollo Client).
 
-- 🔭 I’m currently working on: [Tasty Blog Engine](https://your-demo-link.com)
-- 🌱 I’m learning: Advanced animation with GSAP and scroll-triggered effects
+- 🔭 I’m currently working on: [Upwork](https://www.upwork.com/freelancers/~019c9b67f5d8db9753)
+- 🌱 I’m learning: Node.js & Express.js
 - 💬 Ask me about: Headless WordPress, Next.js, and performance optimization
-- 📫 Reach me: [hirondev@gmail.com](mailto:hirondev@gmail.com)
+- 📫 Reach me: [hironmd647@gmail.com](mailto:hirondmd647@gmail.com)
 - 🌐 Portfolio: [hirondev.com](https://hirondev.com)
 
 ---
